@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='gbk'?>
+<!DOCTYPE package_list SYSTEM "client-management.dtd">
+<package_list version="1.3" from="cfmmc" to="S">
+  <package seqserial="1" seqno="900448">
+    <process processid="0075-A-20170327-00000005" processstatus="7" processdate="2017-03-27" processtime="18:27:20" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <asset_info clientregion="1" clienttype="5" futuresid="99901639" exchangeid="S" companyid="0075" excompanyid="0075" exclientidtype="3" exclientid="" clientname="机构-期货类一对一资管" nationality="CHN" idtype="50" id_original="" id_transformed="" birthday="" gender="" nocid="52567504-3" nocid_extracode="" licenseno="10800130" compclientid="10800130" organtype="110" taxno="" registry_currency="CNY" registrycapital="9000000" legalperson="曹大英" classify="020201" opendate="2017-03-22" contactperson="曹大英" phone_countrycode="86" phone_areacode="0571" phone_number="28829900" addr_zipcode="110000" addr_country="中国" addr_province="156110000" addr_city="156110101" addr_address="北京市东城区" assetmgr_clienttype="2" assetmgr_type="1" assetmgr_fund="1000000.0" assetmgr_starttime="2017-03-01" assetmgr_expirytime="2027-01-01" assetmgr_mgr_name="机构-期货类一对一资管" assetmgr_mgr_phone_countrycode="86" assetmgr_mgr_phone_areacode="86" assetmgr_mgr_phone_number="13858029460" assetmgr_idtype="1" assetmgr_id="511423198703210033" has_share_holders="1" has_fund_mgr="1" fund_mgr_name="cai" fund_mgr_idtype="1" fund_mgr_id="1234567" fund_mgr_countrycode="86" fund_mgr_areacode="1" fund_mgr_phone="124132" fund_mgr_addr_country="413214" fund_mgr_addr_province="1413421" fund_mgr_addr_city="123" fund_mgr_addr="23413" has_invest_adv="1" invest_adv_name="cai" invest_adv_idtype="1" invest_adv_id="13858029460" invest_adv_countrycode="86" invest_adv_areacode="" invest_adv_phone="1241232142" invest_adv_addr_country="121" invest_adv_addr_province="123" invest_adv_addr_city="" invest_adv_addr="" auth_name="曹大英" auth_idtype="1" auth_id="511423198703210033" auth_phone_countrycode="86" auth_phone_areacode="0571" auth_phone_number="28829900" auth_addr_zipcode="110000" auth_addr_country="中国" auth_addr_province="156110000" auth_addr_city="156110101" auth_addr_address="北京市东城区" order_name="曹大英" order_idtype="1" order_id="511423198703210033" order_phone_countrycode="86" order_phone_areacode="0571" order_phone_number="28829900" order_addr_zipcode="110000" order_addr_country="中国" order_addr_province="156110000" order_addr_city="156110101" order_addr_address="北京市东城区" fund_name="曹大英" fund_idtype="1" fund_id="511423198703210033" fund_phone_countrycode="86" fund_phone_areacode="0571" fund_phone_number="28829900" fund_addr_zipcode="110000" fund_addr_country="中国" fund_addr_province="156110000" fund_addr_city="156110101" fund_addr_address="北京市东城区" bill_name="曹大英" bill_idtype="1" bill_id="511423198703210033" bill_phone_countrycode="86" bill_phone_areacode="0571" bill_phone_number="28829900" bill_addr_zipcode="110000" bill_addr_country="中国" bill_addr_province="156110000" bill_addr_city="156110101" bill_addr_address="北京市东城区">
+        <bankacc_list>
+          <bankacc accountno="10800130" branchname="杭州滨江支行" accountname="机构-期货类一对一资管" bankid="01"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="101131272"/>
+        </businessrange_list>
+        <trusteebankacc_list>
+          <bankacc accountno="10800130" branchname="杭州滨江支行" accountname="机构-期货类一对一资管" bankid="01"/>
+        </trusteebankacc_list>
+      </asset_info>
+    </process>
+  </package>
+</package_list>

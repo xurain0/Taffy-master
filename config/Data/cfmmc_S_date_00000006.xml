@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE package_list SYSTEM "client-management.dtd">
+<package_list version="1.3" from="cfmmc" to="S">
+  <package seqserial="1" seqno="900449">
+    <process processid="0075-A-20170327-00000006" processstatus="7" processdate="2017-03-27" processtime="22:11:57" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <asset_info clientregion="1" clienttype="5" futuresid="99901640" exchangeid="S" companyid="0075" excompanyid="0075" exclientidtype="3" exclientid="" clientname="特殊机构-一对一资管" nationality="CHN" idtype="50" id_original="" id_transformed="" birthday="" gender="" nocid="78400788-3" nocid_extracode="99" licenseno="10800133" compclientid="10800133" organtype="110" taxno="" registry_currency="CNY" registrycapital="9000000" legalperson="特殊机构-一对一资管" classify="02010102" opendate="2017-03-22" contactperson="特殊机构-一对一资管" phone_countrycode="86" phone_areacode="0571" phone_number="28843302" addr_zipcode="110000" addr_country="中国" addr_province="156110000" addr_city="156110101" addr_address="北京市东城区" assetmgr_clienttype="4" assetmgr_type="1" ledger_manage_name="特殊机构-一对一资管" assetmgr_fund="8000000.0" assetmgr_starttime="2017-03-02" assetmgr_expirytime="2027-01-01" assetmgr_mgr_name="特殊机构-一对一资管" assetmgr_mgr_phone_countrycode="86" assetmgr_mgr_phone_areacode="86" assetmgr_mgr_phone_number="23858029460" assetmgr_idtype="1" assetmgr_id="511423198703210033" has_share_holders="0" has_fund_mgr="0" fund_mgr_name="" fund_mgr_idtype="" fund_mgr_id="" fund_mgr_countrycode="" fund_mgr_areacode="" fund_mgr_phone="" fund_mgr_addr_country="" fund_mgr_addr_province="" fund_mgr_addr_city="" fund_mgr_addr="" has_invest_adv="0" invest_adv_name="" invest_adv_idtype="" invest_adv_id="" invest_adv_countrycode="" invest_adv_areacode="" invest_adv_phone="" invest_adv_addr_country="" invest_adv_addr_province="" invest_adv_addr_city="" invest_adv_addr="" auth_name="特殊机构-一对一资管" auth_idtype="1" auth_id="511423198703210033" auth_phone_countrycode="86" auth_phone_areacode="0571" auth_phone_number="28843302" auth_addr_zipcode="110000" auth_addr_country="中国" auth_addr_province="156110000" auth_addr_city="156110101" auth_addr_address="北京市东城区" order_name="特殊机构-一对一资管" order_idtype="1" order_id="511423198703210033" order_phone_countrycode="86" order_phone_areacode="0571" order_phone_number="28843302" order_addr_zipcode="110000" order_addr_country="中国" order_addr_province="156110000" order_addr_city="156110101" order_addr_address="北京市东城区" fund_name="特殊机构-一对一资管" fund_idtype="1" fund_id="511423198703210033" fund_phone_countrycode="86" fund_phone_areacode="0571" fund_phone_number="28843302" fund_addr_zipcode="110000" fund_addr_country="中国" fund_addr_province="156110000" fund_addr_city="156110101" fund_addr_address="北京市东城区" bill_name="特殊机构-一对一资管" bill_idtype="1" bill_id="511423198703210033" bill_phone_countrycode="86" bill_phone_areacode="0571" bill_phone_number="28843302" bill_addr_zipcode="110000" bill_addr_country="中国" bill_addr_province="156110000" bill_addr_city="156110101" bill_addr_address="北京市东城区">
+        <bankacc_list>
+          <bankacc accountno="10800133" branchname="杭州分行" accountname="特殊机构-一对一资管" bankid="01"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="106158"/>
+        </businessrange_list>
+        <trusteebankacc_list>
+          <bankacc accountno="10800133" branchname="杭州滨江支行" accountname="特殊机构-一对一资管" bankid="01"/>
+        </trusteebankacc_list>
+		<share_holder_list>
+		<!-- share_holder_type="3"才允许有子节点 -->
+			<share_holder share_holder_type="3" share_holder_name="1-0-1-1" share_holder_idtype="1" share_holder_id="11111" share_holding_ratio="89.91" share_holding_amount="81.1" product_mgr_name="a" product_code="0006" product_scale="12.000000001">				
+				<share_holder share_holder_type="1" share_holder_name="2-1-2-1" share_holder_idtype="1" share_holder_id="22222" share_holding_ratio="21.22" share_holding_amount="3000.000001" product_mgr_name="b" product_code="0005" product_scale="12.000000001"/>				
+				<share_holder share_holder_type="3" share_holder_name="3-1-2-2" share_holder_idtype="1" share_holder_id="33333" share_holding_ratio="30.11" share_holding_amount="30000.000001" product_mgr_name="c" product_code="0004" product_scale="12.000000001">		
+					<share_holder share_holder_type="2" share_holder_name="4-3-3-1" share_holder_idtype="1" share_holder_id="44444" share_holding_ratio="34.22" share_holding_amount="200.000001" product_mgr_name="d" product_code="0003" product_scale="12.000000001"/>
+				</share_holder>
+			</share_holder>
+			<share_holder share_holder_type="2" share_holder_name="5-0-1-2" share_holder_idtype="1" share_holder_id="55555" share_holding_ratio="76.01" share_holding_amount="100.000001" product_mgr_name="e" product_code="0009" product_scale="12.000000001"/>
+		</share_holder_list>
+      </asset_info>
+    </process>
+  </package>
+</package_list>

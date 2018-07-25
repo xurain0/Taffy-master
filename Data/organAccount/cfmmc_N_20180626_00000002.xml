@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE package_list SYSTEM "client-management.dtd">
+<package_list version="1.3" from="cfmmc" to="N">
+  <package seqserial="1" seqno="126">
+    <process processid="8006-A-20180620-000001" processstatus="7" processdate="2018-06-20" processtime="14:04:32" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <organ_info clientregion="1" foreignclientmode="0" clienttype="2" futuresid="" exchangeid="N" companyid="8006" excompanyid="8006" exclientidtype="3" exclientid="" clientname="testxxxxx" idtype="50" nocid="16304011-3" licenseno="91440101MA59KDD1XH" compclientid="101300665" organtype="110" taxno="91440101MA59KDD1XH" registry_currency="0" registrycapital="10000000" registry_addr_country='USA' registry_addr_city='GodenState' registry_addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" classify="020204" opendate="2017-05-08" contactperson="沈睿" phone_countrycode="86" phone_areacode="0" phone_number="13906718164" addr_zipcode="310000" addr_country="USA" addr_province="156220000" addr_city="156220100" addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" legalperson="沈睿" auth_name="沈睿" auth_idtype="1" auth_id="140104196210190818" auth_phone_countrycode="86" auth_phone_areacode="0" auth_phone_number="13906718164" auth_addr_zipcode="310000" auth_addr_country="中国" auth_addr_province="156220000" auth_addr_city="156220100" auth_addr_address="中国吉林省长春市" order_name="沈睿" order_idtype="1" order_id="140104196210190818" order_phone_countrycode="86" order_phone_areacode="0" order_phone_number="13906718164" order_addr_zipcode="310000" order_addr_country="中国" order_addr_province="156370000" order_addr_city="156370100" order_addr_address="中国山东省济南市" fund_name="沈睿" fund_idtype="1" fund_id="140104196210190818" fund_phone_countrycode="86" fund_phone_areacode="0" fund_phone_number="13906718164" fund_addr_zipcode="310000" fund_addr_country="中国" fund_addr_province="156370000" fund_addr_city="156370100" fund_addr_address="中国山东省济南市" bill_name="沈睿" bill_idtype="1" bill_id="140104196210190818" bill_phone_countrycode="86" bill_phone_areacode="0" bill_phone_number="13906718164" bill_addr_zipcode="310000" bill_addr_country="中国" bill_addr_province="156370000" bill_addr_city="156370100" bill_addr_address="中国山东省济南市" appropriatype="2">
+        <bankacc_list>
+          <bankacc accountno="8110701012500541119" branchname="天河支行" accountname="对公账号一" bankid="11"/>
+		  <bankacc accountno="8110701012700541122" branchname="杭州支行" accountname="对公账号二" bankid="11"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="117199437671"/>
+        </businessrange_list>
+      </organ_info>
+    </process>
+  </package>
+  <package seqserial="1" seqno="127">
+    <process processid="8006-A-20180620-000001" processstatus="7" processdate="2018-06-20" processtime="14:04:32" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <organ_info clientregion="1" foreignclientmode="0" clienttype="2" futuresid="" exchangeid="N" companyid="8006" excompanyid="8006" exclientidtype="3" exclientid="" clientname="testxxxxx" idtype="50" nocid="16304011-3" licenseno="91440101MA59KDD1XH" compclientid="101300665" organtype="110" taxno="91440101MA59KDD1XH" registry_currency="0" registrycapital="10000000" registry_addr_country='' registry_addr_city='' registry_addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" classify="020204" opendate="2017-05-08" contactperson="沈睿" phone_countrycode="86" phone_areacode="0" phone_number="13906718164" addr_zipcode="310000" addr_country="USA" addr_province="156220000" addr_city="156220100" addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" legalperson="沈睿" auth_name="沈睿" auth_idtype="1" auth_id="140104196210190818" auth_phone_countrycode="86" auth_phone_areacode="0" auth_phone_number="13906718164" auth_addr_zipcode="310000" auth_addr_country="中国" auth_addr_province="156220000" auth_addr_city="156220100" auth_addr_address="中国吉林省长春市" order_name="沈睿" order_idtype="1" order_id="140104196210190818" order_phone_countrycode="86" order_phone_areacode="0" order_phone_number="13906718164" order_addr_zipcode="310000" order_addr_country="中国" order_addr_province="156370000" order_addr_city="156370100" order_addr_address="中国山东省济南市" fund_name="沈睿" fund_idtype="1" fund_id="140104196210190818" fund_phone_countrycode="86" fund_phone_areacode="0" fund_phone_number="13906718164" fund_addr_zipcode="310000" fund_addr_country="中国" fund_addr_province="156370000" fund_addr_city="156370100" fund_addr_address="中国山东省济南市" bill_name="沈睿" bill_idtype="1" bill_id="140104196210190818" bill_phone_countrycode="86" bill_phone_areacode="0" bill_phone_number="13906718164" bill_addr_zipcode="310000" bill_addr_country="中国" bill_addr_province="156370000" bill_addr_city="156370100" bill_addr_address="中国山东省济南市" appropriatype="2">
+        <bankacc_list>
+          <bankacc accountno="8110701012500541119" branchname="天河支行" accountname="对公账号一" bankid="11"/>
+		  <bankacc accountno="8110701012700541122" branchname="杭州支行" accountname="对公账号二" bankid="11"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="117199437671"/>
+        </businessrange_list>
+      </organ_info>
+    </process>
+  </package>
+  <package seqserial="1" seqno="128">
+    <process processid="8006-A-20180620-000001" processstatus="7" processdate="2018-06-20" processtime="14:04:32" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <organ_info clientregion="3" foreignclientmode="2" clienttype="2" futuresid="" exchangeid="N" companyid="8006" excompanyid="8006" exclientidtype="3" exclientid="" clientname="testxxxxx" idtype="50" nocid="16304021-3" licenseno="91440101MA59KDD1XH" compclientid="101300665" organtype="110" taxno="91440101MA59KDD1XH" registry_currency="0" registrycapital="10000000" registry_addr_country='USA' registry_addr_city='uta' registry_addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" classify="020204" opendate="2017-05-08" contactperson="沈睿" phone_countrycode="86" phone_areacode="0" phone_number="13906718164" addr_zipcode="310000" addr_country="USA" addr_province="156220000" addr_city="156220100" addr_address="中国吉林省长春市龙口东路129号A栋11-15楼（部位：11楼自编1105单元）" legalperson="沈睿" auth_name="沈睿" auth_idtype="1" auth_id="140104196210190818" auth_phone_countrycode="86" auth_phone_areacode="0" auth_phone_number="13906718164" auth_addr_zipcode="310000" auth_addr_country="中国" auth_addr_province="156220000" auth_addr_city="156220100" auth_addr_address="中国吉林省长春市" order_name="沈睿" order_idtype="1" order_id="140104196210190818" order_phone_countrycode="86" order_phone_areacode="0" order_phone_number="13906718164" order_addr_zipcode="310000" order_addr_country="中国" order_addr_province="156370000" order_addr_city="156370100" order_addr_address="中国山东省济南市" fund_name="沈睿" fund_idtype="1" fund_id="140104196210190818" fund_phone_countrycode="86" fund_phone_areacode="0" fund_phone_number="13906718164" fund_addr_zipcode="310000" fund_addr_country="中国" fund_addr_province="156370000" fund_addr_city="156370100" fund_addr_address="中国山东省济南市" bill_name="沈睿" bill_idtype="1" bill_id="140104196210190818" bill_phone_countrycode="86" bill_phone_areacode="0" bill_phone_number="13906718164" bill_addr_zipcode="310000" bill_addr_country="中国" bill_addr_province="156370000" bill_addr_city="156370100" bill_addr_address="中国山东省济南市" appropriatype="2">
+        <bankacc_list>
+          <bankacc accountno="8110701012500541119" branchname="天河支行" accountname="对公账号一" bankid="11"/>
+		  <bankacc accountno="8110701012700541122" branchname="杭州支行" accountname="对公账号二" bankid="11"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="117199437671"/>
+        </businessrange_list>
+      </organ_info>
+    </process>
+  </package>
+</package_list>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<a>
+<package_list from="cfmmc" to="S" version="1.3">
+  <package seqno="200" seqserial="1">
+    <process businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="" processdate="2017-06-29" processid="0003-A-20170629-000003" processstatus="7" processtime="14:51:02" processtype="1">
+      <person_info addr_address="期权" addr_city="156340100" addr_country="CHN" addr_province="156340000" addr_zipcode="200237" appropriatype="1" bill_addr_address="期权" bill_addr_city="156340100" bill_addr_country="CHN" bill_addr_province="156340000" bill_addr_zipcode="200237" bill_id="110101199006018534" bill_idtype="1" bill_name="抽签" bill_phone_areacode="021" bill_phone_countrycode="86" bill_phone_number="617718" birthday="1990-06-01" classify="01" clientname="抽签" clientregion="1" clienttype="1" companyid="0003" compclientid="01149" exchangeid="S" exclientid="" exclientidtype="1" excompanyid="0003" foreignclientmode="0" fund_addr_address="期权" fund_addr_city="156340100" fund_addr_country="CHN" fund_addr_province="156340000" fund_addr_zipcode="200237" fund_id="110101199006018534" fund_idtype="1" fund_name="抽签" fund_nationality="CHN" fund_phone_areacode="021" fund_phone_countrycode="86" fund_phone_number="617718" futuresid="00006102" gender="1" id_original="110101199006018534" id_transformed="110101199006018534" idtype="1" nationality="CHN" opendate="2016-10-26" order_addr_address="期权" order_addr_city="156340100" order_addr_country="CHN" order_addr_province="156340000" order_addr_zipcode="200237" order_id="110101199006018534" order_idtype="1" order_name="抽签" order_phone_areacode="021" order_phone_countrycode="86" order_phone_number="617718" phone_areacode="021" phone_countrycode="86" phone_number="617718">
+        <bankacc_list>
+          <bankacc accountname="抽签" accountno="8827374834" bankid="01" branchname="上海" />
+        </bankacc_list>
+      </person_info>
+    </process>
+  </package>
+</package_list>
+</a>

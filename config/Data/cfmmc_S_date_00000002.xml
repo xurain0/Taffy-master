@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE package_list SYSTEM "client-management.dtd">
+<a>
+<package_list version="1.3" from="cfmmc" to="N">
+  <package seqserial="1" seqno="147">
+    <process processid="8006-A-20170619-000004" processstatus="7" processdate="2017-05-08" processtime="14:22:32" processtype="1" businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="">
+      <organ_info clientregion="1" foreignclientmode="0" clienttype="2" futuresid="00005953" exchangeid="N" companyid="8006" excompanyid="8006" exclientidtype="3" exclientid="" clientname="对公账号二" idtype="50" nocid="94565312-3" licenseno="3301019456531230" compclientid="101300670" organtype="149" taxno="3301019456531230" registry_currency="0" registrycapital="100000000" registry_addr_address="中国浙江省温州市车站大道" classify="020204" opendate="2017-05-08" contactperson="张三" phone_countrycode="86" phone_areacode="0" phone_number="188695554652" addr_zipcode="310000" addr_country="中国" addr_province="156330000" addr_city="156330300" addr_address="中国浙江省温州市车站大道" legalperson="张三" auth_name="张三" auth_idtype="1" auth_id="310228196901225029" auth_phone_countrycode="86" auth_phone_areacode="0" auth_phone_number="188695554652" auth_addr_zipcode="310000" auth_addr_country="中国" auth_addr_province="156330000" auth_addr_city="156330100" auth_addr_address="中国浙江省杭州市江干区华峰" order_name="张三" order_idtype="1" order_id="310228196901225029" order_phone_countrycode="86" order_phone_areacode="0" order_phone_number="188695554652" order_addr_zipcode="310000" order_addr_country="中国" order_addr_province="156330000" order_addr_city="156330100" order_addr_address="中国浙江省杭州市江干区华峰" fund_name="张三" fund_idtype="1" fund_id="310228196901225029" fund_phone_countrycode="86" fund_phone_areacode="0" fund_phone_number="188695554652" fund_addr_zipcode="310000" fund_addr_country="中国" fund_addr_province="156330000" fund_addr_city="156330100" fund_addr_address="中国浙江省杭州市江干区华峰" bill_name="张三" bill_idtype="1" bill_id="310228196901225029" bill_phone_countrycode="86" bill_phone_areacode="0" bill_phone_number="188695554652" bill_addr_zipcode="310000" bill_addr_country="中国" bill_addr_province="156330000" bill_addr_city="156330100" bill_addr_address="中国浙江省杭州市江干区华峰" appropriatype="">
+        <bankacc_list>
+          <bankacc accountno="8110401014400163410" branchname="杭州支行" accountname="对公账号二" bankid="11"/>
+          <bankacc accountno="8110701012700541122" branchname="杭州支行" accountname="对公账号二" bankid="11"/>
+        </bankacc_list>
+        <businessrange_list>
+          <businessrange industryid="100110161"/>
+        </businessrange_list>
+      </organ_info>
+    </process>
+  </package>
+</package_list>
+</a>

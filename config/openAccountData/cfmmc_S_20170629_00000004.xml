@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package_list from="cfmmc" to="S" version="1.3">
+  <package seqno="900447" seqserial="1">
+    <process businesstype="1" cfmmcreturncode="0" cfmmcreturnmsg="数据格式检查完成（能源中心还需要上传影像资料才能完成开户）;客户身份验证通过;" exreturncode="" exreturnmsg="" processdate="2017-03-22" processid="0075-A-20170327-00000004" processstatus="7" processtime="18:14:50" processtype="1">
+      <asset_info addr_address="北京市东城区" addr_city="156110101" addr_country="中国" addr_province="156110000" addr_zipcode="110000" assetmgr_clienttype="1" assetmgr_expirytime="2027-01-01" assetmgr_fund="1000000.0" assetmgr_id="522601197902176967" assetmgr_idtype="1" assetmgr_mgr_name="曹大英" assetmgr_mgr_phone_areacode="86" assetmgr_mgr_phone_countrycode="86" assetmgr_mgr_phone_number="13858029460" assetmgr_starttime="2017-03-01" assetmgr_type="1" bill_addr_address="北京市东城区" bill_addr_city="156110101" bill_addr_country="中国" bill_addr_province="156110000" bill_addr_zipcode="110000" bill_id="522601197902176967" bill_idtype="1" bill_name="个人-资管" bill_phone_areacode="0571" bill_phone_countrycode="86" bill_phone_number="28834567" birthday="1987-03-21" classify="01" clientname="个人-资管" clientregion="1" clienttype="5" companyid="0075" compclientid="10800128" contactperson="" exchangeid="S" exclientid="" exclientidtype="3" excompanyid="0075" fund_addr_address="北京市东城区" fund_addr_city="156110101" fund_addr_country="中国" fund_addr_province="156110000" fund_addr_zipcode="110000" fund_id="522601197902176967" fund_idtype="1" fund_mgr_addr="" fund_mgr_addr_city="" fund_mgr_addr_country="" fund_mgr_addr_province="" fund_mgr_areacode="" fund_mgr_countrycode="" fund_mgr_id="" fund_mgr_idtype="" fund_mgr_name="" fund_mgr_phone="" fund_name="个人-资管" fund_phone_areacode="0571" fund_phone_countrycode="86" fund_phone_number="28834567" futuresid="99901638" gender="1" has_fund_mgr="0" has_invest_adv="0" has_share_holders="0" id_original="522601197902176967" id_transformed="522601197902176967" idtype="1" invest_adv_addr="" invest_adv_addr_city="" invest_adv_addr_country="" invest_adv_addr_province="" invest_adv_areacode="" invest_adv_countrycode="" invest_adv_id="" invest_adv_idtype="" invest_adv_name="" invest_adv_phone="" legalperson="" licenseno="" nationality="CHN" nocid="" nocid_extracode="" opendate="2017-03-22" order_addr_address="北京市东城区" order_addr_city="156110101" order_addr_country="中国" order_addr_province="156110000" order_addr_zipcode="110000" order_id="522601197902176967" order_idtype="1" order_name="个人-资管" order_phone_areacode="0571" order_phone_countrycode="86" order_phone_number="28834567" organtype="" phone_areacode="0571" phone_countrycode="86" phone_number="28834567" registry_currency="" registrycapital="" taxno="">
+        <bankacc_list>
+          <bankacc accountname="个人-资管" accountno="10800128" bankid="01" branchname="杭州滨江支行" />
+        </bankacc_list>
+        <trusteebankacc_list>
+          <bankacc accountname="曹大英" accountno="10800128" bankid="01" branchname="杭州滨江支行" />
+        </trusteebankacc_list>
+      </asset_info>
+    </process>
+  </package>
+</package_list>
